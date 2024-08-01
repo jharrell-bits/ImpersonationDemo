@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpersonationDemo", "ImpersonationDemo\ImpersonationDemo.csproj", "{9FC34ECB-329E-4641-9573-203F9889D5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpersonationDemoAPI", "ImpersonationDemoAPI\ImpersonationDemoAPI.csproj", "{0422ED44-F9CE-422D-BF81-80B28519DD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC34ECB-329E-4641-9573-203F9889D5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC34ECB-329E-4641-9573-203F9889D5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC34ECB-329E-4641-9573-203F9889D5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC34ECB-329E-4641-9573-203F9889D5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0422ED44-F9CE-422D-BF81-80B28519DD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0422ED44-F9CE-422D-BF81-80B28519DD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0422ED44-F9CE-422D-BF81-80B28519DD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0422ED44-F9CE-422D-BF81-80B28519DD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D627AD3B-9974-4BFB-9B74-AE5CFD4816BF}
+	EndGlobalSection
+EndGlobal

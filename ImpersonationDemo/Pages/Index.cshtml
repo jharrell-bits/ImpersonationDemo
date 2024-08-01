@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2>@User.Identity?.Name</h2>
+
+    <table>
+    @foreach(var weatherForecast in Model.WeatherForecastData)
+    {
+        <tr>
+            <td>@weatherForecast.Date.ToString("MM/dd/yyyy")</td>
+            <td>@weatherForecast.TemperatureF</td>
+        </tr>
+    }
+    </table>
+</div>
