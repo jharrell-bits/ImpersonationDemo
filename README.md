@@ -2,4 +2,4 @@
 
 This is a simple demo showing how to use Impersonation and Windows Authentcation in ASP.NET.
 
-[Impersonation in an ASP.NET Application](https://www.blogger.com/blog/post/edit/5151686887780285198/487722609958479091)
+[Impersonation in an ASP.NET Application](https://brightideatechnology.blogspot.com/2024/07/impersonation-in-aspnet-application.html)
